@@ -5,3 +5,44 @@
 width: 100%;
 height: 100%;
 }
+body{
+    margin:0;
+}
+#container{
+width:100%;
+height: 400px;
+background-color:#f2f2f2;
+display:inline-block;
+}
+#container #left-align{  
+width:50%; 
+float:left;
+}
+#left-align{
+height:400px;
+padding-top:100px;
+}
+#container #right-align{
+width:50%;
+float:right;
+}
+#right-align #render-wiki{
+width: 100%;
+height: 395px;
+}
+.btn{
+background-color:black;
+color: white;
+}
+.container1{
+background-color:#f2f2f2;
+text-align: center;
+}
+#dict{
+width: 100%;
+padding-top: 10px;
+}
+#dict #render-dictionary{
+width: 100%;
+height: 400px;
+}
