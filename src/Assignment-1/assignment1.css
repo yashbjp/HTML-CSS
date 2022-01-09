@@ -9,12 +9,12 @@ height: 100%;
 .row {
     width: 100%;
     display: block;
-    border: Ipx solid;       
+    border: Ipx solid black;       
     margin: 5px;                        
 }
 
 .col {
-    width: 100%;
+    width:35%;
     display: inline-block;
     margin: 30px;
     height: 100%;
